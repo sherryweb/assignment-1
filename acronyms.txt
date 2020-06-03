@@ -7,7 +7,7 @@
 5.	GB 	
 6.	TB 	
 7.	PB	
-8.	LAN 	Local area network
+8.	LAN      Local area network
 9.	LCD 	
 10.	CRT 	
 11.	DOS 	

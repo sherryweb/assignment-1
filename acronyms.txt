@@ -7,7 +7,7 @@
 5.	GB 	
 6.	TB 	
 7.	PB	
-8.	LAN 	
+8.	LAN 	Local area network
 9.	LCD 	
 10.	CRT 	
 11.	DOS 	
@@ -31,7 +31,7 @@
 29.	NAS	
 30.	WAN 	
 31.	OCR 	
-32.	SLA 	
+32.	SLA 	  service-level agreement 
 33.	FTP 	
 34.	TCP/IP  	
 35.	DIMM 	
@@ -53,7 +53,7 @@
 51.	FAQ	
 52.	OOP	
 53.	DNS	
-54.	GPS	
+54.	GPS	         Global Positioning System         
 55.	NIC		
 56.	POP	
 57.	NTFS	

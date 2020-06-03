@@ -29,7 +29,7 @@
 27.	SSD 	
 28.	I/O 	
 29.	NAS	
-30.	WAN 	
+30.	WAN 	  Wide area network
 31.	OCR 	
 32.	SLA 	
 33.	FTP 	
